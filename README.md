@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dylan. I'm a Highshool student that loves CAD, Music, Skating, and anything that curses my perpetual boredom.  
+- 👋 Hi, I’m Dylan. I'm a Highshool student that loves CAD, Music, Skating, and anything that cures my perpetual boredom.  
 
 <!---
 DylnHnlyOIY/DylnHnlyOIY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
